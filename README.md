@@ -14,9 +14,9 @@ I am a PhD student in experimental high energy physics at University of Delhi, c
 ---
 
 <!-- ![](https://github-readme-stats.shion.dev/api?username=anujraghav252&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
-![](https://streak-stats.demolab.com/?user=anujraghav252&theme=github_dark&hide_border=false)<br/>
+<!-- ![](https://streak-stats.demolab.com/?user=anujraghav252&theme=github_dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anujraghav252&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anujraghav252&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 
 
