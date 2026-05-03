@@ -8,22 +8,10 @@ with the goal of making collider physics analysis accessible, reproducible, and 
 
 ---
 
-### What I work on
-
-**[H→WW\*→eμ Analysis](https://github.com/anujraghav252/H-to-WW-NanoAOD-analysis)**  
-Full analysis pipeline using CMS Open Data: event selection, background estimation, signal extraction, and statistical inference.  
-Stack: `uproot` · `awkward-array` · `Dask` · `hist` · `vector` · `mplhep` · `CMS Combine`  
-→ [Documentation site](https://anujraghav252.github.io/H-to-WW-NanoAOD-analysis)
-
-**[Drell-Yan Analysis](https://github.com/anujraghav252/Drell-Yan-analysis)**  
-Master's thesis work on the Drell-Yan process as a QCD probe.
-
----
-
 ### Interests
 - Open science and reproducible HEP analysis
-- Machine learning for signal extraction
-- CMS Open Data as an educational tool
+- Machine learning for HEP Analysis
+- And Everything
 
 ---
 
