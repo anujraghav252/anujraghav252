@@ -15,5 +15,5 @@ with the goal of making collider physics analysis accessible, reproducible, and 
 
 ---
 
-→ **More about me and my work: [anujraghav252.github.io](https://anrghv.github.io)**  
+→ **More about me and my work: [anrghv.github.io](https://anrghv.github.io)**  
 → **Contact: anujraghav.physics@gmail.com**
