@@ -1,19 +1,7 @@
-## Anuj Raghav
+# Anuj Raghav 
 
-PhD student in experimental high-energy physics at the University of Delhi.  
-HSF-India Fellow working on open-science HEP analysis with CMS Open Data.
+I am a PhD student at the University of Delhi working in Experimental High Energy Physics
 
-I'm building an end-to-end analysis pipeline for **H→WW\*→eμ** using CMS Run 2 NanoAOD Open Data —  
-with the goal of making collider physics analysis accessible, reproducible, and educational.
+Currently, I am an HSF-India Fellow, supported by the National Science Foundation and Princeton University, where I am developing a complete and reproducible analysis pipeline for the Higgs to WW process in the electron–muon final state using CMS Open Data. The project is aimed at creating a structured workflow that can serve as a practical resource for early-career researchers entering High Energy Physics. You can follow this work [here](https://github.com/anrghv/H-to-WW-NanoAOD-analysis)
 
----
-
-### Interests
-- Open science and reproducible HEP analysis
-- Machine learning for HEP Analysis
-- And Everything
-
----
-
-→ **More about me and my work: [anrghv.github.io](https://anrghv.github.io)**  
-→ **Contact: anujraghav.physics@gmail.com**
+My research interests include open science, machine learning applications in High Energy Physics, and AI-driven analysis workflows.
